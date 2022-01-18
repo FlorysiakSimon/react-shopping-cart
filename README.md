@@ -1,6 +1,6 @@
 # React-shopping-cart
 
-![Lien](https://i.gyazo.com/7d116e8d76e24aae11e7a0c4cb51520c.png)
+![Lien](https://i.gyazo.com/6a75e79f604fc28ad5077f9d33076aca.png)
 
 ## Prerequisites
 
